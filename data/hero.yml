@@ -1,0 +1,13 @@
+---
+enable: true
+topTitle: Hi, I am Alex
+content: >
+  # I will bring you actionable insights
+
+  Driven Data Analyst with 4+ years of experience in transforming traditional ways of thinking. 
+  Currently employed as HR Analyst at The Hershey Company 
+buttonName: Contact me
+buttonURL: contact
+image: images/hero/Alex Lee.jpg
+# videoThumb: images/hero/popup-thumb.png
+# videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ

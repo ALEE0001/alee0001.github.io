@@ -1,0 +1,54 @@
+publishDir = "docs"
+baseURL = "http://alee0001.github.io/"
+languageCode = "en-us"
+paginate = 6
+theme = "portio-hugo"
+title = "Portio"
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "Portfolio"
+url = "#portfolio"
+weight = 2
+[[menu.main]]
+name = "About"
+url = "#about"
+weight = 3
+[[menu.main]]
+name = "Contact"
+url = "#contact"
+weight = 4
+
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "Back to the beginning"
+url = "about"
+weight = 1
+
+[params]
+contactLink = "contact"
+copyright = "All right reserved copyright © Portio 2020"
+footerLogo = "images/contact/widget-logo.png"
+logo = "images/site-navigation/logo.png"
+
+[params.address]
+address = "Hershey, Pennsylavania"
+email = "alexmize@my.unt.edu"
+openingHours = "10:00 AM - 5:00 PM Monday - Saturday"
+phone = "+(1) 832 795 6031"
+
+# Social icons
+
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/in/alex-lee-776a39b7/"
+weight = 2
+[[params.social]]
+icon = "fa-pinterest-square"
+url = "https://github.com/ALEE0001"
+weight = 3
+

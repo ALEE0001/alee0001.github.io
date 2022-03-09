@@ -1,0 +1,31 @@
+---
+enable: true
+topTitle: What I do
+title: >
+  ## Expertise
+
+service:
+  - content: >
+      #### App Development
+
+      Developed 7+ R Shiny & Tableau Dashboards from end to end to enable continuous monitoring of Key Performance
+      Indicators that had direct impact of decreasing the costs by $100,000+
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Data Analysis
+
+      
+    image: images/service/web.svg
+  - content: >
+      #### ETL
+
+      Lead Data Modeling effort in SQL Server to prepare production ready datasets for analytical use and
+      decreased the data preparation time by 90% for all users
+    image: images/service/creative.svg
+  - content: >
+      #### Automation
+
+      
+    image: images/service/branding.svg
+
+

@@ -1,0 +1,25 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Why hire me for your team?
+
+  I'm a life long self learner interested in all things.
+  I will continuously research and apply new techniques to afloat the team in this
+  ever-developing modern world.
+
+image: images/skill/skill_image_.jpg
+
+skill:
+  - title: R
+    percent: 87
+  - title: Tableau
+    percent: 85
+  - title: SQL
+    percent: 60
+  - title: Alteryx
+    percent: 50
+  - title: Python
+    percent: 30
+  - title: Microsoft Azure
+    percent: 10

@@ -1,0 +1,60 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My History
+
+  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+
+
+  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
+tab1Name: Experiences
+tab2Name: Education
+tab1Target: experience
+tab2Target: education
+
+experience:
+  - content: >
+      #### Data Science: Foundations using R Specialization
+
+      Certificate from Coursera Johns Hopkins University
+    time: 2021
+    
+  - content: >
+      #### Business Analytics: From Data to Insights
+
+      Certificate from University of Pennsylvania
+      
+      The Wharton School
+    time: 2019   
+
+  - content: >
+      ### Bachelor of Business Administration
+      
+      Human Resources & Organizational Behavior focus
+      
+      from University of North Texas
+    time: 2011 - 2015
+
+
+education:
+  - content: >
+      #### Sr. Analyst, HR Reporting
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2022 - Present
+  - content: >
+      #### Analyst, HR Reporting
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2018 - 2022
+  - content: >
+      #### Human Resources Specialist
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2016 - 2018
+  - content: >
+      #### Human Resources Intern
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2015 - 2015
