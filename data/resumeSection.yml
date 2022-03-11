@@ -1,13 +1,12 @@
 ---
 enable: true
-topTitle: My Resume
+topTitle: My History
 title: >
-  ## My History
+  ## Highlights
+  
+  I can do a lot of things, but here are some highlights from my past work.
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
-
-
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
+  Please review my resume for an in depth look at my experience.
 tab1Name: Experiences
 tab2Name: Education
 tab1Target: experience
@@ -16,45 +15,51 @@ tab2Target: education
 experience:
   - content: >
       #### Data Science: Foundations using R Specialization
-
-      Certificate from Coursera Johns Hopkins University
-    time: 2021
-    
+      
+      Foundational knowledge in R covering R basics, Data Wrangling, Exploratory Analysis, Data Visualization, Statistical Methods including Clustering 
+      
+      >
+      [Certificate](https://www.coursera.org/verify/specialization/R9DLGKDW7GCK)
+    time: Coursera Johns Hopkins University | 2021
   - content: >
       #### Business Analytics: From Data to Insights
-
-      Certificate from University of Pennsylvania
       
-      The Wharton School
-    time: 2019   
+      Descriptive Analytics & Predictive Analytics with a focus in Optimization Model and Decision Tree Model 
+      
+      >
+      [Certificate](https://www.smartcertificate.com/SmartDiploma/Default.aspx?CeIh9ig0oMTFuLaVRGPaVyWgIGN9IDsI3hBRdgWRCYxVyiAky0xgAjOcCMAG6Jmf)
+    time: The Wharton Scool, U of Pennsylvania | 2019   
 
   - content: >
       ### Bachelor of Business Administration
       
-      Human Resources & Organizational Behavior focus
-      
-      from University of North Texas
-    time: 2011 - 2015
+      4 Year Undergraduate Program with a focus in Human Resources & Organizational Behavior
+
+    time: University of North Texas | 2011 - 2015
 
 
 education:
   - content: >
       #### Sr. Analyst, HR Reporting
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2022 - Present
+      
+      Spearheaded Data Modeling effort in SQL Server to prepare production ready datasets for analytical use and
+      decreased the data preparation time by 90% for all users
+    time: The Hershey Company | 2022 - Present 
   - content: >
       #### Analyst, HR Reporting
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2018 - 2022
+      Developed and Automated 7+ End to End Dashboards & Apps with R Shiny, Tableau, and SQL that enabled 
+      continuous monitoring of People Analytics KPIs, having a direct impact of $100,000+ cost reduction.
+    time: The Hershey Company | 2018 - 2022
   - content: >
       #### Human Resources Specialist
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016 - 2018
+      Introduced a leadership evaluation program that ultimately increased organizational transparency, 
+      while also enabling analytical capabilities on employee - manager dynamic.
+    time: Hyundai Power Transformers | 2016 - 2018
   - content: >
       #### Human Resources Intern
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2015 - 2015
+      Analyzed HR processes and filed a risk prevention report, initiating a electronic I-9 filing project.
+    time: Holly Frontier Corporation | 2015 - 2015

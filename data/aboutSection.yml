@@ -2,17 +2,16 @@
 enable: true
 title: >
   ## About Me
-
-  Lifelong Learner
+  
 content: >
-  ### I design, develop, and automate production ready apps.
+  ### "No hard feelings, but here are some data driven facts"
 
-  As a data analyst, I believe in the power of storytelling through data to create impactful and long lasting insights 
-  that drive informed business decisions.
+  As a data analyst, I'm a proponent of being real and building powerful storylines through data to 
+  create impactful & long lasting insights that drive informed business decisions.
   
   
 # button1Name: Hire Me
 button2Name: Check Out My Resume
 # button1Target: contact
 button2Target: images/about/Alex Lee Resume 2021.pdf
-image: images/about/about-img.jpg
+image: images/about/about-img3.jpg

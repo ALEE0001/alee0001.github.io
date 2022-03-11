@@ -3,7 +3,7 @@ baseURL = "http://alee0001.github.io/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio-hugo"
-title = "Portio"
+title = "Alex Lee"
 # Main Menu
 [[menu.main]]
 name = "Home"
@@ -17,16 +17,13 @@ weight = 2
 name = "About"
 url = "#about"
 weight = 3
-[[menu.main]]
-name = "Contact"
-url = "#contact"
-weight = 4
+
 
 
 # Sitemap Menu
 [[menu.sitemap]]
 name = "Back to the beginning"
-url = "about"
+url = "#home"
 weight = 1
 
 [params]
@@ -36,9 +33,9 @@ footerLogo = "images/contact/widget-logo.png"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "Hershey, Pennsylavania"
+address = "Hershey, Pennsylavania United States"
 email = "alexmize@my.unt.edu"
-openingHours = "10:00 AM - 5:00 PM Monday - Saturday"
+openingHours = "10:00 AM - 5:00 PM"
 phone = "+(1) 832 795 6031"
 
 # Social icons

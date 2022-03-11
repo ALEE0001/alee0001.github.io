@@ -1,20 +1,20 @@
 ---
 enable: true
-topTitle: My Skills
+topTitle: My Technical Skills
 content: >
-  ## Why hire me for your team?
+  ## How would I add value?
 
-  I'm a life long self learner interested in all things.
-  I will continuously research and apply new techniques to afloat the team in this
-  ever-developing modern world.
+  I'm a big believer of self learning with proven track record of developing following skills
+  from ground up. I never stop learning and will continuously apply new techniques to 
+  add value to your team in this ever-changing modern world. So let's talk!
 
 image: images/skill/skill_image_.jpg
 
 skill:
   - title: R
-    percent: 87
+    percent: 80
   - title: Tableau
-    percent: 85
+    percent: 80
   - title: SQL
     percent: 60
   - title: Alteryx

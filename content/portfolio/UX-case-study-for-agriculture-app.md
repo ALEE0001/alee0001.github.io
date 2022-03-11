@@ -2,9 +2,9 @@
 challenge: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
   eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua
   vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
-client: Jane Doe
-date: "2020-08-12T12:13:40+00:00"
-service: UX Design
+source: Jane Doe
+date: "2022-03-11T12:13:40+00:00"
+purpose: Personal
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
