@@ -4,7 +4,7 @@ challenge: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam non
   vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
 source: Jane Doe
 date: "2022-03-11T12:13:40+00:00"
-purpose: Personal
+category: Exploratory Data Analysis
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd

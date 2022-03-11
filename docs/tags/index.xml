@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Portio</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Portio</description>
+    <title>Tags on Alex Lee</title>
+    <link>http://alee0001.github.io/tags/</link>
+    <description>Recent content in Tags on Alex Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="http://alee0001.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>plot</title>
-      <link>/tags/plot/</link>
+      <link>http://alee0001.github.io/tags/plot/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>http://alee0001.github.io/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
+      <link>http://alee0001.github.io/tags/r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>http://alee0001.github.io/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/tags/regression/</link>
+      <link>http://alee0001.github.io/tags/regression/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>http://alee0001.github.io/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>website</title>
-      <link>/tags/website/</link>
+      <link>http://alee0001.github.io/tags/website/</link>
       <pubDate>Sun, 13 Sep 2020 12:49:27 +0600</pubDate>
       
-      <guid>/tags/website/</guid>
+      <guid>http://alee0001.github.io/tags/website/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mobile</title>
-      <link>/tags/mobile/</link>
+      <link>http://alee0001.github.io/tags/mobile/</link>
       <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
       
-      <guid>/tags/mobile/</guid>
+      <guid>http://alee0001.github.io/tags/mobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fun</title>
-      <link>/tags/fun/</link>
+      <link>http://alee0001.github.io/tags/fun/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>/tags/fun/</guid>
+      <guid>http://alee0001.github.io/tags/fun/</guid>
       <description></description>
     </item>
     
