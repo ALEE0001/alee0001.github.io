@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseURL = "http://alee0001.github.io/"
+baseURL = "https://alee0001.github.io/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio-hugo"
