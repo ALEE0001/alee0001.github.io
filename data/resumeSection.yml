@@ -43,14 +43,23 @@ education:
       #### Sr. Analyst, HR Reporting
 
       
-      Spearheaded Data Modeling effort in SQL Server to prepare production ready datasets for analytical use and
-      decreased the data preparation time by 90% for all users.
+      Established an insight on tuition reimbursement program’s impact on employee performance, retention, 
+      and their view towards manager- providing statistical evidence towards the benefit of the program.
     time: The Hershey Company | 2022 - Present 
   - content: >
       #### Analyst, HR Reporting
 
-      Developed and Automated 7+ End to End Dashboards & Apps with R Shiny, Tableau, and SQL that enabled 
-      continuous monitoring of People Analytics KPIs, having a direct impact of $100,000+ cost reduction.
+      Developed and Automated 7+ Dashboards & Apps from end to end with R Shiny, Tableau, and SQL, 
+      enabling continuous monitoring of People Analytics KPIs, having a direct impact of $100,000+ cost reduction.
+      
+      >
+      
+      Automated periodic External Reports and Surveys from end to end with R Markdown, reducing the overhead cost by 90%.
+      
+      >
+      
+      Spearheaded Data Modeling effort in SQL Server to prepare production-ready people datasets and decreased the data 
+      preparation time by 90% for all users.
     time: The Hershey Company | 2018 - 2022
   - content: >
       #### Human Resources Specialist

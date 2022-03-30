@@ -66,8 +66,18 @@
           <img src="{{ .Params.thumbnail | absURL }}" alt="case-details" />
         </div>
         {{ .Content }}
+        
+        
+        <a href="{{ .Params.portfolioURL | absURL }}" alt = "portfolio-link" />
+            <button class="btn btn-lg btn-primary btn-zoom">
+                See it live
+            </button>
+        </a>
+    
+       
       </div>
     </div>
+
     <div class="row">
       <div class="col-lg-10 offset-lg-1">
         <nav class="case-details-nav d-flex justify-content-between align-items-center">
