@@ -33,7 +33,7 @@ footerLogo = "images/contact/logo - footer.png"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "Hershey, Pennsylavania United States"
+address = "Hershey, Pennsylvania United States"
 email = "alexmize@my.unt.edu"
 openingHours = "10:00 AM - 5:00 PM"
 phone = "+(1) 832 795 6031"
