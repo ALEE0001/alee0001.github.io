@@ -1,7 +1,7 @@
 ---
 featureImage: images/allpost/dystopian.jpg
 title: Predicting Lethal Outcome of Protests
-source: Multiple
+tool: R
 category: Predictive Analytics
 date: "2022-11-20"
 challenge: A binary classification problem to predict whether a government response will result in human casualties.
