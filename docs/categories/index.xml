@@ -5,34 +5,6 @@
     <link>https://alee0001.github.io/categories/</link>
     <description>Recent content in Categories on Alex Lee</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://alee0001.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>R</title>
-      <link>https://alee0001.github.io/categories/r/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>https://alee0001.github.io/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blog</title>
-      <link>https://alee0001.github.io/categories/blog/</link>
-      <pubDate>Sun, 13 Sep 2020 12:49:27 +0600</pubDate>
-      
-      <guid>https://alee0001.github.io/categories/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>documentation</title>
-      <link>https://alee0001.github.io/categories/documentation/</link>
-      <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
-      
-      <guid>https://alee0001.github.io/categories/documentation/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://alee0001.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
