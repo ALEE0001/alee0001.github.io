@@ -14,11 +14,34 @@ service:
   - content: >
       #### Business Intelligence
 
-      Discover and clearly understand organizational opportunities without getting too much into technicals. 
-      Let me take care of complexity and specifities. 
+      Discover and clearly understand organizational opportunities in simple, translated words. 
+      
+      >
+      
+      Connect the insights with business requirements.
       
       
     image: images/service/web.svg
+  - content: >
+      #### Advance Analytics
+      
+      Get the most out of your data by making critical predictions based on Machine Learning techniques that result in tangible business value. 
+      
+      >
+      
+      Understand the linkage between cause and effect.
+    
+    image: images/service/branding.svg
+  - content: >
+      #### ETL
+
+      Make your data users' lives easier by taking care of nitty-gritty of data behind the scenes.
+      
+      >
+      
+      Having a clean and sustainable data pipeline is first and foremost before doing any analysis.
+    image: images/service/creative.svg
+    
   - content: >
       #### Automation
 
@@ -31,15 +54,6 @@ service:
       * Data Processing
 
       * Customer Interaction
-    image: images/service/branding.svg
-  - content: >
-      #### ETL
-
-      Make your data users' lives easier by taking care of nitty-gritty of data behind the scenes.
-      
-      >
-      
-      Having a clean and sustainable data pipeline is first and foremost before doing any analysis.
     image: images/service/creative.svg
 
 

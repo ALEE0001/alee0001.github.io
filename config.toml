@@ -11,7 +11,7 @@ url = "#home"
 weight = 1
 [[menu.main]]
 name = "Portfolio"
-url = "#portfolio"
+url = "#blog"
 weight = 2
 [[menu.main]]
 name = "About"
