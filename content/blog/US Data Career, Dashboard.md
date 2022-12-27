@@ -9,4 +9,5 @@ solution: Leverage R Shiny to build a dashboard, that can be updated at any time
 shortDescription: Everyone's curious about what the future holds for their profession. Luckily as data professionals, we have the luxury to automate and build visualizations that can help us keep up-to date on current, and future outlook of our careers.
 thumbnail: images/blog/US Data Careers Dashboard.PNG
 portfolioURL: https://alee0001.shinyapps.io/US_Data_Careers
+githubURL: https://github.com/ALEE0001/pp_us_data_job_dashboard
 ---
