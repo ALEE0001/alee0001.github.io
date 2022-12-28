@@ -52,6 +52,8 @@ service:
       * Data Wrangling
       
       * Data Processing
+      
+      * Product Building
 
       * Customer Interaction
     image: images/service/creative.svg
