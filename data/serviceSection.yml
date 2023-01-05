@@ -8,44 +8,45 @@ service:
   - content: >
       #### Dashboard Development
 
-      Build interactive dashboards that will suit your exact needs and enable continuous monitoring of your organization.
+      Deliver customized, interactive dashboards that enable continuous monitoring of your organization's key metrics, 
+      ensuring you have the real time insights to make informed decisions.
 
     image: images/service/ui-ux.svg
   - content: >
       #### Business Intelligence
 
-      Discover and clearly understand organizational opportunities in simple, translated words. 
+      Uncover and translate complex organizational data into actionable insights that drive business growth.
       
       >
       
-      Connect the insights with business requirements.
+      Link data insights to real-world business needs to drive informed decision making.
       
       
     image: images/service/web.svg
   - content: >
       #### Advance Analytics
       
-      Get the most out of your data by making critical predictions based on Machine Learning techniques that result in tangible business value. 
+      Maximize the value of your data through machine learning-based predictions that drive tangible business outcomes.
       
       >
       
-      Understand the linkage between cause and effect.
+      Uncover the underlying relationships between cause and effect.
     
     image: images/service/branding.svg
   - content: >
       #### ETL
 
-      Make your data users' lives easier by taking care of nitty-gritty of data behind the scenes.
+      Simplify data management for your team by handling the technical details behind the scenes, allowing them to focus on insights and impact.
       
       >
       
-      Having a clean and sustainable data pipeline is first and foremost before doing any analysis.
+      Ensuring data integrity through robust and sustainable pipelines is essential for reliable analysis.
     image: images/service/creative.svg
     
   - content: >
       #### Automation
 
-      Automate and schedule your work processes all the way from start to finish.
+      Streamline your workflows from start to finish through automation and scheduling.
       
       * Data Procurement
       
