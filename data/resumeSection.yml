@@ -42,18 +42,19 @@ education:
   - content: >
       #### Lead BI Analyst
 
-      Collaborated in the development of an API using R Plumber, which standardized and facilitated 
-      real-time access to key talent acquisition data and metrics.
+       Contributed to the development of a REST API using R Plumber to standardize real-time 
+       access to talent acquisition KPIs and models. Employed advanced statistical techniques, 
+       including survival analysis, as well as dimensionality reduction techniques such as PCA 
+       and factor analysis.
+
     time: The Hershey Company | Dec 2022 - Present 
 
   - content: >
       #### Sr. Analyst, HR Reporting
 
-      
-      Conducted Adverse Impact Analysis using statistical techniques such as T-test, Anova, 
-      and Correlation Analysis, uncovering complex relational dynamics between various 
-      diversity groups, and provided actionable insights and recommendations on key areas 
-      of focus for the organization.
+      Conducted Adverse Impact Analysis in R using statistical techniques such as t-test, 
+      ANOVA, and hypothesis testing to uncover complex relational dynamics between 
+      various diversity groups. Consulted on key areas of focus for the organization.
     time: The Hershey Company | Mar 2022 - Dec 2022 
   - content: >
       #### Analyst, HR Reporting
