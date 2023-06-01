@@ -13,6 +13,16 @@ tab1Target: experience
 tab2Target: education
 
 experience:
+  
+  - content: >
+      #### Introduction to Programming with Python and Java Specialization
+      
+      Covered core principles of Python and Java including Data Structures, Inheritence, Unit Testing, and Debugging.
+      
+      >
+      [Certificate](https://coursera.org/share/fc1640803ca367daa6835624b653a51a)
+    time: Coursera University of Pennsylvania | 2023
+
   - content: >
       #### Data Science: Foundations using R Specialization
       
@@ -40,14 +50,23 @@ experience:
 
 education:
   - content: >
+      #### Senior BI Engineer
+      
+      Built financial valuations to support the decision-making process in Stars and Risk Adjustment,
+      using data mining, forecasting, simulation, and modeling methods. Utilized expertise in 
+      financial analysis, econometrics, and behavioral economics.
+      
+    time: Humana | June 2023 - Present
+
+  - content: >
       #### Lead BI Analyst
 
-       Contributed to the development of a REST API using R Plumber to standardize real-time 
-       access to talent acquisition KPIs and models. Employed advanced statistical techniques, 
-       including survival analysis, as well as dimensionality reduction techniques such as PCA 
-       and factor analysis.
+      Contributed to the development of a REST API using R Plumber to standardize real-time 
+      access to talent acquisition KPIs and models. Employed advanced statistical techniques 
+      like survival analysis, as well as dimensionality reduction techniques such as PCA 
+      and factor analysis.
 
-    time: The Hershey Company | Dec 2022 - Present 
+    time: The Hershey Company | Dec 2022 - June 2023
 
   - content: >
       #### Sr. Analyst, HR Reporting
@@ -55,6 +74,7 @@ education:
       Conducted Adverse Impact Analysis in R using statistical techniques such as t-test, 
       ANOVA, and hypothesis testing to uncover complex relational dynamics between 
       various diversity groups. Consulted on key areas of focus for the organization.
+    
     time: The Hershey Company | Mar 2022 - Dec 2022 
   - content: >
       #### Analyst, HR Reporting
@@ -66,6 +86,7 @@ education:
       
       Facilitated data modeling efforts in SQL Server to prepare production-ready people datasets, 
       resulting in a 90% reduction in data prep time for data users.
+    
     time: The Hershey Company | 2018 - 2022
   - content: >
       #### Human Resources Specialist
@@ -77,4 +98,5 @@ education:
       #### Human Resources Intern
 
       Analyzed HR processes and filed a risk prevention report, initiating a electronic I-9 filing project.
+    
     time: Holly Frontier Corporation | 2015 - 2015
