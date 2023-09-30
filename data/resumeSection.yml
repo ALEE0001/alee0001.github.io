@@ -43,7 +43,7 @@ experience:
   - content: >
       ### Bachelor of Business Administration
       
-      4 Year Undergraduate Program with a focus in Human Resources & Organizational Behavior.
+      4 Year Business Degree with a focus in Human Resources & Organizational Behavior.
 
     time: University of North Texas | 2011 - 2015
 
@@ -51,6 +51,11 @@ experience:
 education:
   - content: >
       #### Senior BI Engineer
+      
+      Developed and deployed an LGBM model to predict balance and falling problem among customers with F1 score of 0.7, 
+      leading to preemptive care for patients.
+      
+      >
       
       Built financial valuations to support the decision-making process in Stars and Risk Adjustment,
       using data mining, forecasting, simulation, and modeling methods. Utilized expertise in 
@@ -61,10 +66,9 @@ education:
   - content: >
       #### Lead BI Analyst
 
-      Contributed to the development of a REST API using R Plumber to standardize real-time 
+      Developed a REST API using R Plumber to standardize real-time 
       access to talent acquisition KPIs and models. Employed advanced statistical techniques 
-      like survival analysis, as well as dimensionality reduction techniques such as PCA 
-      and factor analysis.
+      such as survival analysis, PCA, and factor analysis.
 
     time: The Hershey Company | Dec 2022 - June 2023
 
@@ -80,23 +84,11 @@ education:
       #### Analyst, HR Reporting
 
       Developed and automated 7+ dashboards and apps from end to end using R Shiny, Tableau, and SQL, 
-      enabling continuous monitoring of People Analytics KPIs and resulting in a cost reduction of over $100,000.
+      enabling continuous monitoring of People Analytics KPIs and resulting in a direct cost reduction of over $100,000.
       
       >
       
       Facilitated data modeling efforts in SQL Server to prepare production-ready people datasets, 
-      resulting in a 90% reduction in data prep time for data users.
+      resulting in a 40 Hrs./Month+ reduction in data prep time for data users.
     
     time: The Hershey Company | 2018 - 2022
-  - content: >
-      #### Human Resources Specialist
-
-      Introduced a leadership evaluation program that increased organizational transparency and enabled analytical 
-      capabilities on the employee-manager dynamic.
-    time: Hyundai Power Transformers | 2016 - 2018
-  - content: >
-      #### Human Resources Intern
-
-      Analyzed HR processes and filed a risk prevention report, initiating a electronic I-9 filing project.
-    
-    time: Holly Frontier Corporation | 2015 - 2015

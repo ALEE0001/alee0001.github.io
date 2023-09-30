@@ -14,14 +14,14 @@ image: images/skill/skill_image_.jpg
 skill:
   - title: R
     percent: 85
+  - title: Python
+    percent: 80
   - title: Tableau
     percent: 80
   - title: SQL
     percent: 60
   - title: Alteryx
     percent: 50
-  - title: Python
-    percent: 40
   - title: CSS
     percent: 20
   - title: Azure
