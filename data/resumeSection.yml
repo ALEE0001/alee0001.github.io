@@ -17,7 +17,7 @@ experience:
   - content: >
       #### Introduction to Programming with Python and Java Specialization
       
-      Covered core principles of Python and Java including Data Structures, Inheritence, Unit Testing, and Debugging.
+      Covered core principles of Python and Jawwwva including Data Structures, Inheritence, Unit Testing, and Debugging.
       
       >
       [Certificate](https://coursera.org/share/fc1640803ca367daa6835624b653a51a)
@@ -31,14 +31,6 @@ experience:
       >
       [Certificate](https://www.coursera.org/verify/specialization/R9DLGKDW7GCK)
     time: Coursera Johns Hopkins University | 2021
-  - content: >
-      #### Business Analytics: From Data to Insights
-      
-      Covered Descriptive Analytics & Predictive Analytics with a focus in Optimization Model and Decision Tree Model. 
-      
-      >
-      [Certificate](https://www.smartcertificate.com/SmartDiploma/Default.aspx?CeIh9ig0oMTFuLaVRGPaVyWgIGN9IDsI3hBRdgWRCYxVyiAky0xgAjOcCMAG6Jmf)
-    time: The Wharton School, UPenn | 2019   
 
   - content: >
       ### Bachelor of Business Administration
@@ -52,43 +44,40 @@ education:
   - content: >
       #### Senior BI Engineer
       
-      Developed and deployed an LGBM model to predict balance and falling problem among customers with F1 score of 0.7, 
-      leading to preemptive care for patients.
+      Developed and deployed an LGBM model with Python Sklearn and Pyspark, 
+      achieving an F1 score of 0.7. Predicted balance and falling issues among customers, ultimately enabling preemptive patient care.
       
       >
       
-      Built financial valuations to support the decision-making process in Stars and Risk Adjustment,
-      using data mining, forecasting, simulation, and modeling methods. Utilized expertise in 
-      financial analysis, econometrics, and behavioral economics.
+      Built financial valuations with Python to support the decision-making process in Stars and Risk Adjustment, 
+      using data mining, causal analysis, intervention analysis, simulation, and modeling methods. 
       
     time: Humana | June 2023 - Present
 
   - content: >
       #### Lead BI Analyst
 
-      Developed a REST API using R Plumber to standardize real-time 
-      access to talent acquisition KPIs and models. Employed advanced statistical techniques 
-      such as survival analysis, PCA, and factor analysis.
+      Developed a real-time REST API in R, integrating advanced statistical methods like survival analysis 
+      and factor analysis to provide non-technical stakeholders with access to standardized talent acquisition KPIs and models.
 
     time: The Hershey Company | Dec 2022 - June 2023
 
   - content: >
       #### Senior Analyst, HR Reporting
 
-      Conducted Adverse Impact Analysis in R using statistical techniques such as t-test, 
-      ANOVA, and hypothesis testing to uncover complex relational dynamics between 
-      various diversity groups. Consulted on key areas of focus for the organization.
+      Conducted Adverse Impact Analysis using R, applying statistical hypothesis testing such as Chi-square, 
+      t-test, and ANOVA to reveal complex relationships within diversity groups and provide strategic guidance.
     
     time: The Hershey Company | Mar 2022 - Dec 2022 
   - content: >
       #### Analyst, HR Reporting
 
-      Developed and automated 7+ dashboards and apps from end to end using R Shiny, Tableau, and SQL, 
-      enabling continuous monitoring of People Analytics KPIs and resulting in a direct cost reduction of over $100,000.
+      Developed and automated 7+ end-to-end dashboards and apps using R Shiny, Tableau, and SQL, enabling continuous 
+      monitoring of People Analytics KPIs, leading to direct cost reduction of over $100K.
       
       >
       
-      Facilitated data modeling efforts in SQL Server to prepare production-ready people datasets, 
-      resulting in a 40 Hrs./Month+ reduction in data prep time for data users.
+      Facilitated data modeling in SQL Server to prepare production-ready people datasets, 
+      resulting in a monthly reduction of over 40 hours in data preparation time for users.
     
     time: The Hershey Company | 2018 - 2022

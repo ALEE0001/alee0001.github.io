@@ -22,7 +22,10 @@ skill:
     percent: 60
   - title: Alteryx
     percent: 50
+  - title: Databricks
+    percent: 40
   - title: CSS
-    percent: 20
+    percent: 30
   - title: Azure
-    percent: 20
+    percent: 30
+
