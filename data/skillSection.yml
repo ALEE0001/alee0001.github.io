@@ -22,6 +22,8 @@ skill:
     percent: 60
   - title: Alteryx
     percent: 50
+  - title: Pyspark
+    percent: 40
   - title: Databricks
     percent: 40
   - title: CSS
