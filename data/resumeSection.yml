@@ -4,7 +4,7 @@ topTitle: My History
 title: >
   ## Highlights
   
-  With a diverse range of skills and experience, I have a track record of delivering results. 
+  I bring a mix of skills and hands-on experience, and I've got a track record of getting things done.
   
   Please see my resume for a comprehensive overview of my past achievements.
 tab1Name: Experiences
@@ -13,11 +13,17 @@ tab1Target: experience
 tab2Target: education
 
 experience:
+
+  - content: >
+      #### Master of Applied Data Science
+      
+      [Curriculum](https://www.si.umich.edu/programs/master-applied-data-science/curriculum)
+    time: University of Michigan | 2024 - 2026
   
   - content: >
       #### Introduction to Programming with Python and Java Specialization
       
-      Covered core principles of Python and Jawwwva including Data Structures, Inheritence, Unit Testing, and Debugging.
+      Covered core principles of Python and Java including Data Structures, Inheritence, Unit Testing, and Debugging.
       
       >
       [Certificate](https://coursera.org/share/fc1640803ca367daa6835624b653a51a)
@@ -33,10 +39,9 @@ experience:
     time: Coursera Johns Hopkins University | 2021
 
   - content: >
-      ### Bachelor of Business Administration
+      #### Bachelor of Business Administration
       
-      4 Year Business Degree with a focus in Human Resources & Organizational Behavior.
-
+      [Curriculum](http://catalog.unt.edu/preview_program.php?catoid=32&poid=13795&returnto=3542)
     time: University of North Texas | 2011 - 2015
 
 
@@ -44,8 +49,8 @@ education:
   - content: >
       #### Senior BI Engineer
       
-      Developed and deployed an LGBM model with Python Sklearn and Pyspark, 
-      achieving an F1 score of 0.7. Predicted balance and falling issues among customers, ultimately enabling preemptive patient care.
+      Developed and deployed a LightGBM model with Python Sklearn and Pyspark, achieving a testing F1 score of 0.7. 
+      Predicted balance and falling issues among customers, ultimately enabling preemptive patient care.
       
       >
       
