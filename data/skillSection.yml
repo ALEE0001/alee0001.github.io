@@ -1,33 +1,38 @@
 ---
 enable: true
-topTitle: My Technical Skills
+topTitle: High Level Technical Skills
 content: >
-  ## Non-Stop Upskill
+  ## A Natural Geek
 
-  I have a proven track record of developing new skills and applying them effectively. 
-  I am confident in my ability to stay current and add unique perspective to my team in this rapidly changing world. 
-  I believe that my dedication to self-improvement and my commitment to continuous learning can make a real difference to your organization. 
-  Let's connect and explore how we can work together!
+  I have a proven track record of developing new skills and applying them to bring tangible results. 
+  I love the ever evolving nature of this field and it's my daily joy to try out new things.
+  If you don't mind me geeking out on SOTA Technologies, let's connect and see where it takes us!
 
 image: images/skill/skill_image_.jpg
 
 skill:
+  - title: Python
+    percent: 87
   - title: R
     percent: 85
-  - title: Python
-    percent: 80
+  - title: SQL
+    percent: 82
   - title: Tableau
     percent: 80
-  - title: SQL
-    percent: 60
+  - title: PowerBI
+    percent: 70
   - title: Alteryx
     percent: 50
   - title: Pyspark
+    percent: 45
+  - title: Hadoop
     percent: 40
   - title: Databricks
     percent: 40
-  - title: CSS
-    percent: 30
   - title: Azure
+    percent: 40
+  - title: Google Cloud Platform
     percent: 30
+  - title: CSS
+    percent: 20
 

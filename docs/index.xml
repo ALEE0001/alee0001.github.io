@@ -6,7 +6,16 @@
     <description>Recent content on Alex Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://alee0001.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://alee0001.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithmic Trading using LSTM</title>
+      <link>https://alee0001.github.io/blog/algorithmic-stock-trading-using-lstm/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://alee0001.github.io/blog/algorithmic-stock-trading-using-lstm/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Text to SQL Transformer Model</title>
       <link>https://alee0001.github.io/blog/text-to-sql-transformer-model-in-pytorch/</link>

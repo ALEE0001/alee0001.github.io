@@ -6,12 +6,15 @@ title: >
 
 service:
   - content: >
-      #### Dashboard Development
-
-      Deliver customized, interactive dashboards that enable continuous monitoring of your organization's key metrics, 
-      ensuring you have the real time insights to make informed decisions.
-
-    image: images/service/ui-ux.svg
+      #### Advance Analytics
+      
+      Maximize the value of your data through machine learning and deep learning based predictions that drive tangible business outcomes.
+      
+      >
+      
+      Uncover the underlying relationships between cause and effect.
+    
+    image: images/service/branding.svg
   - content: >
       #### Business Intelligence
 
@@ -24,15 +27,12 @@ service:
       
     image: images/service/web.svg
   - content: >
-      #### Advance Analytics
-      
-      Maximize the value of your data through machine learning-based predictions that drive tangible business outcomes.
-      
-      >
-      
-      Uncover the underlying relationships between cause and effect.
-    
-    image: images/service/branding.svg
+      #### Dashboard Development
+
+      Deliver customized, interactive dashboards that enable continuous monitoring of your organization's key metrics, 
+      ensuring you have the real time insights to make informed decisions.
+
+    image: images/service/ui-ux.svg
   - content: >
       #### ETL
 
