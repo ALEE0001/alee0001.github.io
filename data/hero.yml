@@ -2,16 +2,7 @@
 enable: true
 topTitle: Hi, I am Alex
 content: >
-  ## Good to see you here!
-
-
-  With over six years of hands-on experience challenging conventional approaches in the realm of data, 
-  I am dedicated to unveiling untapped opportunities through innovative solutions.
-  
-  >
-  
-  My interest lies in crafting user-friendly insights and products designed to simplify complex concepts, ensuring a shared understanding of all.
-
+  ## Tech nerd exploring the edge of technology to solve real-world problems.
   
 buttonName: Contact me
 buttonURL: contact
