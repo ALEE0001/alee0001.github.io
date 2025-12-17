@@ -21,15 +21,15 @@ skill:
     percent: 80
   - title: PowerBI
     percent: 70
+  - title: Databricks
+    percent: 70
+  - title: Azure Synapse Analytics
+    percent: 70
   - title: Alteryx
     percent: 50
   - title: Pyspark
     percent: 45
   - title: Hadoop
-    percent: 40
-  - title: Databricks
-    percent: 40
-  - title: Azure
     percent: 40
   - title: Google Cloud Platform
     percent: 30
