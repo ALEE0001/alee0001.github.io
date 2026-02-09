@@ -49,52 +49,52 @@ education:
   - content: >
       #### Senior Data Scientist
       
-      Developed and maintained end-to-end machine learning models.
+      Architected and owned enterprise forecasting and risk modeling systems over multimillion-record medical and 
+      pharmacy claims, informing CMS healthcare quality-based bonus performance and materially improving program 
+      efficiency and operational decision making. 
+      
+      >
+      
+      Designed decision-aligned intervention models by optimizing ranking objectives under outcome value, intervention 
+      cost, and operational capacity constraints, materially improving targeting efficiency and downstream ROI.
       
     time: Humana | September 2024 - Present
   - content: >
       #### Senior BI Engineer
       
-      Developed and maintained end-to-end machine learning models.
-      
-      >
-      
-      Built financial valuations using statistical methods to support the decision-making process in Stars and Risk Adjustment.
-      
-      >
-      
-      Consulted business partners on experimental designs to ensure robust and causally interpretable results.
+       Applied causal and quasi-experimental methods (propensity score matching, difference-in-differences) to evaluate 
+       intervention effectiveness, informing strategy and generating $100K+ in annual cost savings and $5M+ revenue. 
+       
+       >
+       
+       Led 7+ cross-functional experimentation efforts from problem framing through deployment, influencing product, 
+       clinical, and operational decision-making.
+
       
     time: Humana | June 2023 - September 2024
 
   - content: >
       #### Lead BI Analyst
 
-      Optimized and maintained machine learning models.
-      
-      >
-      
-      Developed and maintained customer facing tools to automate and simplify complex business insights.
-      
-      >
-      
-      Served as a solutions consultant to business partners.
+      Built predictive and survival models to forecast employee turnover and talent pipeline risk, enabling targeted 
+      retention strategies and near real-time KPI monitoring through production APIs. 
 
     time: The Hershey Company | Dec 2022 - June 2023
 
   - content: >
-      #### Senior Analyst, HR Reporting
+      #### Senior Data Analyst
 
-      Built financial valuations using statistical methods to support the decision-making process in HR policies.
+      Conducted adverse impact analyses using (Chi-square, t-tests, ANOVA) to inform fair hiring decisions. 
     
     time: The Hershey Company | Mar 2022 - Dec 2022 
   - content: >
-      #### Analyst, HR Reporting
+      #### Data Analyst
 
-      Developed and maintained automated business processes.
+      Automated People Analytics dashboards, replacing third-party tools and saving $200K annually. 
       
       >
       
-      Developed, optimized, and maintained ETL Pipelines.
+      Optimized ETL pipelines and data models, reducing data prep time by 40 hours per month through SQL, and Alteryx. 
+
     
     time: The Hershey Company | 2018 - 2022
